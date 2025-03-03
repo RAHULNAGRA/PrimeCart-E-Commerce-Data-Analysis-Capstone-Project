@@ -32,8 +32,7 @@ Create a multi-page interactive dashboard covering various aspects of PrimeCart 
 **1️⃣ Sales & Revenue Analysis**
 
 **KPIs to include:**
-
--Total Revenue
+- Total Revenue
 - Total Orders
 - Average Order Value (AOV)
 - Gross Profit Margin (%)
@@ -42,26 +41,25 @@ Create a multi-page interactive dashboard covering various aspects of PrimeCart 
 - Month-over-Month (MoM) Revenue Growth
 
 **Reports to generate:**
-
--Revenue trends over time
--Monthly revenue breakdown
--Yearly comparison of revenue growth
--Total sales segmented by different dimensions
+- Revenue trends over time
+- Monthly revenue breakdown
+- Yearly comparison of revenue growth
+- Total sales segmented by different dimensions
 
 **2️⃣ Customer Analytics**
 
 **KPIs to include:**
--Total Customers
--New vs. Returning Customers
--Customer Retention Rate
--Customer Lifetime Value (CLV)
--Conversion Rate (%)
+- Total Customers
+- New vs. Returning Customers
+- Customer Retention Rate
+- Customer Lifetime Value (CLV)
+- Conversion Rate (%)
 
 **Reports to generate:**
--Customer demographics segmentation
--Customer order frequency analysis
--Trends in new vs. returning customers
--Customer engagement over time
+- Customer demographics segmentation
+- Customer order frequency analysis
+- Trends in new vs. returning customers
+- Customer engagement over time
 
 **3️⃣ Product & Inventory Performance**
 
@@ -71,7 +69,7 @@ Create a multi-page interactive dashboard covering various aspects of PrimeCart 
 - Stockout Rate
 - Inventory Turnover Ratio
 - Demand Forecasting using Moving Averages
-- 
+  
 **Reports to generate:**
 - Product-wise revenue contribution
 - Inventory health monitoring
