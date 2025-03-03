@@ -32,6 +32,7 @@ Create a multi-page interactive dashboard covering various aspects of PrimeCart 
 **1️⃣ Sales & Revenue Analysis**
 
 **KPIs to include:**
+
 -Total Revenue
 - Total Orders
 - Average Order Value (AOV)
@@ -41,6 +42,7 @@ Create a multi-page interactive dashboard covering various aspects of PrimeCart 
 - Month-over-Month (MoM) Revenue Growth
 
 **Reports to generate:**
+
 -Revenue trends over time
 -Monthly revenue breakdown
 -Yearly comparison of revenue growth
