@@ -23,7 +23,7 @@ https://github.com/Ayushi0214/SQL-Python-Ecommerce-Project/blob/main/csv_to_sql.
 7. Inventory Turnover: Identify products that have been out of stock for more than 15 days in the last 3 months.
 8. Order Abandonment: Count the number of cancelled orders per month and find the month with the highest cancellation rate.
 9. Session Traffic Analysis: Identify the most common traffic source (e.g., Adwords, Email, Organic) that leads to a successful purchase.
-10.Discount Effectiveness: Find the conversion rate of users who used a discount code vs. those who didn’t.
+10. 10.Discount Effectiveness: Find the conversion rate of users who used a discount code vs. those who didn’t.
 
 # PART 2: DASHBOARD VISUALIZATION (Power BI/Tableau)
 
